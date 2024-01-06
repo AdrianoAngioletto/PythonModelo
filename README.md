@@ -1,2 +1,2 @@
 # PythonModelo
-# Apenas um modelo
+# Apenas um modelo, para novos Projetos em Python
