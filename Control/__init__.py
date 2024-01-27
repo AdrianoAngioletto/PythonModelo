@@ -1,1 +1,1 @@
-from .kaka import a
+from .Control import alguma_funcao
